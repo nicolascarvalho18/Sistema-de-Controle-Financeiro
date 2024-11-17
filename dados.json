@@ -1,0 +1,24 @@
+{
+    "receitas": [
+        {
+            "id": 1,
+            "descricao": "Sal\u00c3\u00a1rio",
+            "valor": 5000,
+            "data": "2024-11-01"
+        },
+        {
+            "id": 2,
+            "descricao": "3",
+            "valor": 3.0,
+            "data": "222334"
+        }
+    ],
+    "despesas": [
+        {
+            "id": 1,
+            "descricao": "Aluguel",
+            "valor": 1500,
+            "data": "2024-11-05"
+        }
+    ]
+}
